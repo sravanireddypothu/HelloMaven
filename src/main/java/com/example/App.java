@@ -1,7 +1,13 @@
 package com.example;
 
-public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello World! CMRCET");
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
     }
 }
